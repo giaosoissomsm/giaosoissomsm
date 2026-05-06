@@ -4,6 +4,13 @@
 
 ### Cybersecurity & Infrastructure Analyst | Network Security | Automation & Systems
 
+<div align="center" style="margin-top:10px;">
+  <img src="https://www.fortinet.com/content/dam/fortinet/images/training/nse-certified-fundamentals-cybersecurity.svg" width="50" />
+  <img src="https://www.fortinet.com/content/dam/fortinet/images/training/nse-certified-associate-cybersecurity.svg" width="50" />
+  <img src="https://www.fortinet.com/content/dam/fortinet/images/training/nse-certified-professional-secure-networking.svg" width="50" />
+  <img src="https://www.fortinet.com/content/dam/fortinet/images/training/nse-certified-specialist-sp-secure-networking.svg" width="50" />
+</div>
+
 </div>
 
 ## 🚀 Sobre
